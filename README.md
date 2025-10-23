@@ -33,8 +33,12 @@ Uso de aria-current="page" para indicar a página ativa
 
 ✅ Validação W3C
 
-Todos os arquivos HTML foram validados no W3C Validator
-.
+imagens/docs/
+![descrição da imagem](imagens/docs/w3c-atv2.png)
+![descrição da imagem](imagens/docs/w3cpatv2.png)
+![descrição da imagem](imagens/docs/w3cpatv2.png)
+
+
 
 Nenhum erro encontrado.
 
@@ -50,17 +54,21 @@ cadastro.html	✅ Sem erros
 Página	Visual
 Início	
 
-Início	
+Início	   
+![Página Inicial](imagens/docs/index-1.png)
+![Página Inicial](imagens/docs/index2.png)
 
-| Projetos |
-|
-| Projetos |
+| Projetos | | **Projetos** | ![Projetos](imagens/docs/proj1.png) |
+
+| Projetos | | **Projetos** | ![Projetos](imagens/docs/proj2.png) |
 |
 
-| Cadastro |
-|
-| Cadastro |
-|
+| Cadastro | | **Cadastro** | ![Cadastro](imagens/docs/cad1.png) |
+
+| Cadastro | | **Cadastro** | ![Cadastro](imagens/docs/cad2.pngg) |
+
+|Cdastro | **Cadastro** | ![Cadastro](imagens/docs/cad3.png) |
+
 
 ⚙️ Execução
 
@@ -80,6 +88,3 @@ Responsividade em 3 breakpoints (992 px, 768 px e 420 px);
 Acessibilidade com foco e contraste adequados;
 
 Validação W3C 100 % sem erros.
-
-📘 Projeto acadêmico — Curso de Análise e Desenvolvimento de Sistemas, Cruzeiro do Sul Virtual.
-Desenvolvido por Eduardo Vieira de Miranda.

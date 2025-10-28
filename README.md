@@ -44,30 +44,31 @@ Nenhum erro encontrado.
 
 O CSS foi revisado e testado em diferentes resoluções.
 
-Página	Resultado	Print
-index.html	✅ Sem erros	
+## ✅ Validação W3C
 
-projetos.html	✅ Sem erros	
+**Comprovantes:**  
+![W3C geral](imagens/docs/index-w3c.png)  
+![W3C página 1](imagens/docs/projeto-w3c.png)  
+![W3C página 2](imagens/docs/cadastro-w3c.png)
 
-cadastro.html	✅ Sem erros	
-📸 Visual das Páginas
-Página	Visual
-Início	
-
-Início	   
-![Página Inicial](imagens/docs/index-1.png)
-![Página Inicial](imagens/docs/index2.png)
-
-| Projetos | | **Projetos** | ![Projetos](imagens/docs/proj1.png) |
-
-| Projetos | | **Projetos** | ![Projetos](imagens/docs/proj2.png) |
 |
+## 📸 Visual das Páginas
 
-| Cadastro | | **Cadastro** | ![Cadastro](imagens/docs/cad1.png) |
+### Início
+![Página Inicial 1](imagens/docs/index-1.png)
+![Página Inicial 2](imagens/docs/index2.png)
 
-| Cadastro | | **Cadastro** | ![Cadastro](imagens/docs/cad2.pngg) |
+### Projetos
+![Projetos 1](imagens/docs/proj1.png)
+![Projetos 2](imagens/docs/proj2.png)
 
-|Cdastro | **Cadastro** | ![Cadastro](imagens/docs/cad3.png) |
+### Cadastro
+![Cadastro 1](imagens/docs/cad1.png)
+![Cadastro 2](imagens/docs/cad2.png)
+![Cadastro 3](imagens/docs/cad3.png)
+
+CSS ## ✅ Validação W3C
+![CSS](imagens/docs/css-w3c.png)
 
 
 ⚙️ Execução

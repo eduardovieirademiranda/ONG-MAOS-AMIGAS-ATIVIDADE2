@@ -46,27 +46,33 @@ O CSS foi revisado e testado em diferentes resoluções.
 
 ## ✅ Validação W3C (HTML)
 
-![W3C geral](imagens/docs/index-w3c.png)  
-![W3C página 1](imagens/docs/projeto-w3c.png)  
-![W3C página 2](imagens/docs/cadastro-w3c.png)
+### 🖼️ Prints da Validação W3C (CDN)
+
+### 🖼️ Prints da Validação W3C (CDN)
+
+![Validação da página index](https://cdn.jsdelivr.net/gh/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE2@main/imagens/docs/index-w3c.png)  
+![Validação da página projetos](https://cdn.jsdelivr.net/gh/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE2@main/imagens/docs/projeto-w3c.png)  
+![Validação da página cadastro](https://cdn.jsdelivr.net/gh/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE2@main/imagens/docs/cadastro-w3c.png)
 
 ## 📸 Visual das Páginas
 
 ### Início
-![Página Inicial 1](imagens/docs/index-1.png)
-![Página Inicial 2](imagens/docs/index2.png)
+### 🏠 Início
+![Página Inicial 1](https://cdn.jsdelivr.net/gh/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE2@main/imagens/docs/index-1.png)  
+![Página Inicial 2](https://cdn.jsdelivr.net/gh/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE2@main/imagens/docs/index2.png)
 
-### Projetos
-![Projetos 1](imagens/docs/proj1.png)
-![Projetos 2](imagens/docs/proj2.png)
+### 💡 Projetos
+![Projetos 1](https://cdn.jsdelivr.net/gh/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE2@main/imagens/docs/proj1.png)  
+![Projetos 2](https://cdn.jsdelivr.net/gh/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE2@main/imagens/docs/proj2.png)
 
-### Cadastro
-![Cadastro 1](imagens/docs/cad1.png)
-![Cadastro 2](imagens/docs/cad2.png)
-![Cadastro 3](imagens/docs/cad3.png)
+### 👥 Cadastro
+![Cadastro 1](https://cdn.jsdelivr.net/gh/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE2@main/imagens/docs/cad1.png)  
+![Cadastro 2](https://cdn.jsdelivr.net/gh/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE2@main/imagens/docs/cad2.png)  
+![Cadastro 3](https://cdn.jsdelivr.net/gh/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE2@main/imagens/docs/cad3.png)
 
 ## ✅ Validação W3C (CSS)
-![CSS](imagens/docs/css-w3c.png)
+![Validação do CSS](https://cdn.jsdelivr.net/gh/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE2@main/imagens/docs/css-w3c.png)
+
 
 
 

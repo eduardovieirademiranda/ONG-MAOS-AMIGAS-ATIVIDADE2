@@ -44,14 +44,12 @@ Nenhum erro encontrado.
 
 O CSS foi revisado e testado em diferentes resoluções.
 
-## ✅ Validação W3C
+## ✅ Validação W3C (HTML)
 
-**Comprovantes:**  
 ![W3C geral](imagens/docs/index-w3c.png)  
 ![W3C página 1](imagens/docs/projeto-w3c.png)  
 ![W3C página 2](imagens/docs/cadastro-w3c.png)
 
-|
 ## 📸 Visual das Páginas
 
 ### Início
@@ -67,8 +65,9 @@ O CSS foi revisado e testado em diferentes resoluções.
 ![Cadastro 2](imagens/docs/cad2.png)
 ![Cadastro 3](imagens/docs/cad3.png)
 
-CSS ## ✅ Validação W3C
+## ✅ Validação W3C (CSS)
 ![CSS](imagens/docs/css-w3c.png)
+
 
 
 ⚙️ Execução

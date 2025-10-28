@@ -31,15 +31,6 @@ Estrutura semântica correta (header, main, footer)
 
 Uso de aria-current="page" para indicar a página ativa
 
-✅ Validação W3C
-
-imagens/docs/
-![descrição da imagem](imagens/docs/w3c-atv2.png)
-![descrição da imagem](imagens/docs/w3cpatv2.png)
-![descrição da imagem](imagens/docs/w3cpatv2.png)
-
-
-
 Nenhum erro encontrado.
 
 O CSS foi revisado e testado em diferentes resoluções.
